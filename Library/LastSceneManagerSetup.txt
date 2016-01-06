@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/fun with lasers.unity
+  isLoaded: 1
+  isActive: 1
